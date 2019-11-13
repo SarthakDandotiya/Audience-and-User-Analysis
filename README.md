@@ -2,8 +2,6 @@
 
 Social Network analysis on Twitter and Facebook data.
 
----
-
 ## Work
 
 **Twitter:**
